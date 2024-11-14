@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Pre:wght@400..700&family=Oswald:wght@200..700&display=swap');
+
+
+
+*{
+    padding: 0;
+    margin: 0;
+}
+ /*     Side   Bar    */ 
+
+.Sidebar{
+    display: flex;
+    margin-left: 20px;
+    margin-top: 20px;
+    width: 426px;
+    height: 900px;
+    border-radius: 10px;
+    background: rgb(0, 0, 0);
+    color: white;
+    justify-content: center;
+}
+
+h1{
+     font-family: "Edu AU VIC WA NT Pre", cursive;
+     font-optical-sizing: auto;
+     font-weight: 20px;
+     font-style: normal;
+}
+p{
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 10px;
+    font-style: normal;
+}
+img{
+   
+    border-radius: 50%;
+    width: 100px;
+    height: 95px;
+}
